@@ -1,0 +1,15 @@
+body {
+    background-image: url(dd.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.text  {
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white; 
+    align-items: center;
+    flex-direction: column;
+}
+
